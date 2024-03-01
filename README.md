@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ko0olguy
-- 👀 I’m interested in Frontend Dev
-- 🌱 I’m currently learning React and Framer Motion
-- 💞️ I’m looking to collaborate on Any project that's in my capabilities
+- 👀 I’m interested in full-stack dev
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on any project that's in my capabilities
 - 📫 How to reach me Email: ibbi14401@gmail.com
 
 <!---
