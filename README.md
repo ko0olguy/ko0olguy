@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ko0olguy
 - 👀 I’m interested in full-stack dev
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently practicing next.js
 - 💞️ I’m looking to collaborate on any project that's in my capabilities
 - 📫 How to reach me Email: ibbi14401@gmail.com
 
